@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Carola';
+  src: url('/fonts/carola/Carola.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Longevity';
+  src: url('/fonts/Longevity/Longevity.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ComicNeueLightItalic';
+  src: url('/fonts/comicNeue/ComicNeue-LightItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
